@@ -4,7 +4,7 @@
 #       k : korea
 #       n : 2
 #       result : ulkorea
-
+# not easy
 s = input("s :")
 k = input("k :")
 n = int(input("n: "))
